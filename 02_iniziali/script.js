@@ -17,7 +17,7 @@ function prendiIniziali (names) {
 
 //function arrow
 
-//const prendiIniziali = (names) => names.map (names => names [0])
+//const prendiIniziali = () => names.map (names => names [0])
 
 // Invoca la funzione qui e stampa il risultato in console
 
